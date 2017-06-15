@@ -1,0 +1,50 @@
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+a:link  { color: #60a62f; }
+a:visited { color:gray; }
+a:hover { color:red; }
+a:active { color:yellow; }
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+}
+
+header {
+  height: 80px;
+  background-color: #000000;
+  font-size: 1.6rem;
+}
+
+img {
+  width: 100%;
+}
+
+.starting {
+  margin: 0;
+  color: #60a62f;
+  text-align: center;
+}
+
+main {
+  font-size: 1.15rem;
+}
+
+footer {
+  font-size: 1.25rem;
+  height: 50px;
+  background-color: #000000;
+  text-align: center;
+  color: #60a62f;
+}
+
+h1, h2 {
+  font-family: 'Architects Daughter', cursive;
+}
+
+p, ul {
+  font-family: 'Vollkorn', serif;
+}
